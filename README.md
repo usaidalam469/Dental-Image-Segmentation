@@ -61,3 +61,9 @@ The models were evaluated on the Tufts dataset before and after applying semi-su
 | Attention ResUNet             | 0.9070   | 0.9753   | 0.9077     | 0.8681    | 0.9510 | 0.8309|
 | Attention ResUNet + SSL       | 0.9125   | 0.9816   | 0.9125     | 0.8764    | 0.9516 | 0.8391|
 
+### Output
+#### Input Image
+![Input Image](PseudoLabel1.png)
+
+#### Output Image
+![Output Image](PseudoLabelMask.png)
